@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Chicago Plain';
+  font-style: normal;
+  font-weight: normal;
+  src: url('./Chicago.woff') format('woff');
+  
+}
+/* @font-face { font-family: 'DungGeunMo'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/DungGeunMo.woff') format('woff'); font-weight: normal; font-style: normal; } */
+@import url('https://fonts.googleapis.com/css?family=Gothic+A1:200,400,500,900&display=swap&subset=korean');
